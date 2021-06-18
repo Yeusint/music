@@ -17,7 +17,7 @@ if (!defined('MC_CORE')) {
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>音乐搜索器 - 多站合一音乐搜索,音乐在线试听</title>
+    <title>音乐搜索器哦~</title>
     <meta name="renderer" content="webkit">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Cache-Control" content="no-transform">
@@ -56,35 +56,10 @@ if (!defined('MC_CORE')) {
             })();
         </script>
     <![endif]-->
-	    <header class="am-topbar am-topbar-fixed-top">
-        <div class="am-container">
-            <h1 class="am-topbar-brand">
-              <a href="https://defcon.cn" target="_blank">DEFCON笔记</a>
-            </h1>
-            <button class="am-topbar-btn am-topbar-toggle am-btn am-btn-sm am-btn-secondary am-show-sm-only" data-am-collapse="{target: '#collapse-head'}">
-              <span class="am-sr-only">导航切换</span>
-              <span class="am-icon-bars"></span>
-            </button>
-            <nav class="am-collapse am-topbar-collapse am-fr" id="collapse-head">
-                <ul class="am-nav am-nav-pills am-topbar-nav">
-                    <li>
-                      <a href="https://defcon.cn/wordpress/" target="_blank">WordPress技巧</a>
-                    </li>
-                    <li>
-                      <a href="https://defcon.cn/216.html" target="_blank">在线种子磁链播放器</a>
-                    </li>
-                    <li class="am-active">
-                      <a href="http://shop.defcon.cn" target="_blank"><font color="#FF0000">免费领优惠券</font></a>
-                    </li>
-                </ul>
-            </nav>
-        </div>
-    </header>
-    <section class="am-g about">
+	<section class="am-g about">
         <div class="am-container am-margin-vertical-xl">
             <header class="am-padding-vertical">
                 <h2 class="about-title about-color">音乐搜索器</h2>
-                <p class="am-text-center"><a href="http://shop.defcon.cn/index.php/jiu?t=1097" target="_blank"><font color="#FF0000">9.9元包邮</font></a></p>
             </header>
             <hr>
             <div class="am-u-lg-12 am-padding-vertical">
@@ -217,12 +192,19 @@ if (!defined('MC_CORE')) {
                 <div class="am-popup-bd">
                     <p>本站音频文件来自各网站接口，本站不会修改任何音频文件</p>
                     <p>音频版权来自各网站，本站只提供数据查询服务，不提供任何音频存储和贩卖服务</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p style="text-align: right;">编辑修改：</p>
+                    <p style="text-align: right;">Yeusint设计部</p>
                 </div>
             </div>
         </div>
     </section>
     <footer class="footer">
-        <p class="am-text-sm"><a href="https://defcon.cn/2100.html" target="_blank" rel="author">源码下载</a>&nbsp;<a href="javascript:void(0)" data-am-modal="{target: '#copr-info'}">免责声明</a></p>
+        <p class="am-text-sm"><a href="//yeusint.tk" target="_blank" rel="author">前往官网</a>&nbsp;<a href="javascript:void(0)" data-am-modal="{target: '#copr-info'}">免责声明</a></p>
     </footer>
     <script src="//cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
     <script src="//cdn.staticfile.org/amazeui/2.3.0/js/amazeui.min.js"></script>
